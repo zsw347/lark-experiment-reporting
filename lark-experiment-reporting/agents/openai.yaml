@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书实验报告规范"
+  short_description: "统一各类实验的方法、协议、指标、排名、证据边界与验证流程"
+  default_prompt: "Use $lark-experiment-reporting to write or update a rigorous, easy-to-read experiment report in Feishu."
